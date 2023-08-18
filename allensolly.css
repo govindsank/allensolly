@@ -1,0 +1,84 @@
+.nav-bar{
+    position:relative;
+    width: 100vw;
+    height: 85px;
+    background-color:grey;
+    color: blue;
+    /* top: 10%; */
+}
+.nav-items{
+    vertical-align: middle;
+}
+.nav-item{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 20%;
+}
+.nav-item1{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 26%;
+}
+.nav-item2{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 32%;
+}
+.nav-item3{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 37%;
+}
+.nav-item4{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 44%;
+}
+.nav-item5{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 54%;
+}
+.nav-item6{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 61%;
+}
+.nav-item7{
+    position: absolute;
+    text-align: center;
+    top: 38%;
+    left: 69%;
+}
+.txt1{
+    background-color: transparent;
+}
+.bt1{
+    left: 110%;
+    top: 1%;
+    position: absolute;
+    width: 170px;
+}
+.navtext{
+    color:#0e3051;
+    position: absolute;
+    text-align: center;top: 30%;
+    width: 150px;
+    height: 10px;
+}
+.navimg{
+    width: 5%;
+    left: 5%;
+    position: absolute;
+}
+.nav-item:hover{
+    transform: scale(1.1);
+
+}
