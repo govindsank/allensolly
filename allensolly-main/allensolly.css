@@ -1,0 +1,234 @@
+body{
+    margin: 0;
+}
+.nav-bar{
+    position:sticky;
+    width: 100vw;
+    height: 85px;
+    background-color:white;
+    color: blue;
+    top: 0%;
+}
+.marquee{
+    background: rgb(14, 48, 81);
+    color: white;
+    width: 100vw;
+    height: 35px;
+}
+.scrollp{
+    top: 0;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: Gotham;
+}
+.button{
+    height: 100%;
+    width: 90px;
+    background-color: transparent;
+    color: white;
+    border: 0;
+    font-size: small;
+}
+.button:focus{
+    background-color: white;
+    color: black;
+}
+.button:hover{
+    transform: scale(1.1);
+}
+.first{
+position: absolute;
+    left: 7%;
+}
+.second{
+    position: absolute;
+    left: 14%;
+    font-size:small;
+}
+.third{
+    position: absolute;
+    left: 21%;
+    font-size: x-small;
+}
+.fourth{
+    position: absolute;
+    left: 28%;
+}
+.storelocate{
+    position: absolute;
+    width: 120px;
+    height: 94%;
+    left: 55%;
+    border-right: 1px solid white;
+}
+.store{
+    color: white;
+    width: 70px;
+    position: absolute;
+    left: 37%;
+    top: 3px;
+    font-size: small;
+    /* border-right: 1px solid white; */
+}
+.contact{
+    position: absolute;
+    width:120px;
+    left: 63%;
+    border-right: 1px solid white;
+}
+.cont{
+    color: white;
+    width: 80px;
+    position: absolute;
+    left: 37%;
+    top: 3px;
+    font-size: small;
+    /* border-right: 1px solid white; */
+}
+.profile{
+    position: absolute;
+    width:90px;
+    left: 71%;
+    border-right: 1px solid white;
+}
+.prof{
+        color: white;
+        width: 80px;
+        position: absolute;
+        left: 45%;
+        top: 3px;
+        font-size: small;
+        /* border-right: 1px solid white; */
+}
+.like{
+    position: absolute;
+    width:60px;
+    left: 78%;
+    border-right: 1px solid white;
+}
+.lik{
+    color: white;
+    width: 8px;
+    position: absolute;
+    left: 40%;
+    top: 3px;
+    font-size: small;
+    /* border-right: 1px solid white; */
+}
+.basket{
+    position: absolute;
+    width:60px;
+    left: 83%;
+    border-right: 1px solid white;
+}
+.athityalogo{
+    position: absolute;
+    width: 70px;
+    height: 60px;
+    left: 115%;
+}
+.circle img{
+    border-radius: 50%;
+}
+.nav{
+
+}
+.nav:hover{
+    color:green;
+    transform: scale(1.1);
+}
+.branch{
+    top: 0;
+   
+    position: relative;
+    width: 100vw;
+    height: 55px;
+    background-color: #000d;
+}
+.nav-items{
+    vertical-align: middle;
+}
+.nav-item{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 20%;
+}
+.nav-item1{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 26%;
+}
+.nav-item2{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 32%;
+}
+.nav-item3{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 37%;
+}
+.nav-item4{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 44%;
+}
+.nav-item5{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 54%;
+}
+.nav-item6{
+    position: absolute;
+    text-align: center;
+    top: 25%;
+    left: 61%;
+}
+.nav-item7{
+    position: absolute;
+    text-align: center;
+    top: 38%;
+    left: 69%;
+}
+.sale{
+    color: red !important;
+}
+.txt1{
+    background-color: transparent;
+    border: 0;
+    border-bottom:1px solid rgb(8, 23, 43);
+}
+.text1::placeholder{
+    font-size: 30px;
+}
+.bt1{
+    left: 110%;
+    top: 1%;
+    position: absolute;
+    width: 170px;
+}
+.navtext{
+    color:#0e3051;
+    position: absolute;
+    text-align: center;top: 30%;
+    width: 150px;
+    height: 10px;
+}
+.navimg{
+    width: 5%;
+    left: 5%;
+    position: absolute;
+}
+.nav-item:hover{
+    transform: scale(1.1);
+
+}
+.circle1{
+
+}
