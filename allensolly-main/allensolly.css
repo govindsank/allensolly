@@ -229,6 +229,14 @@ position: absolute;
     transform: scale(1.1);
 
 }
+.circletext{
+    
+}
 .circle1{
-
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 120px;
+    background:url(./mens.jpeg)
 }
