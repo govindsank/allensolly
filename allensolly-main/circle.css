@@ -1,8 +1,8 @@
-circle {
-    width: 100px;
-    height: 100px;
-    -webkit-border-radius: 25px;
-    -moz-border-radius: 25px;
-    border-radius: 25px;
-    background-color: red;
-  }
+   .circle {
+      width: 200px;
+      height: 200px;
+      -webkit-border-radius: 25px;
+      -moz-border-radius: 25px;
+      border-radius: 120px;
+      background:url(./mens.jpeg)
+    }

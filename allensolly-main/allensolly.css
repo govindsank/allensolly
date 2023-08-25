@@ -209,9 +209,20 @@ position: absolute;
 }
 .bt1{
     left: 110%;
-    top: 1%;
+    top: -70%;
+    border:0;
     position: absolute;
-    width: 170px;
+    border-radius: 25px;
+    background: #ffdf00;
+    /* padding: 20px;  */
+    width: 250px;
+    color: #0e3051;
+    font-weight: bolder;
+    height: 51px; 
+    text-align: center;
+    font-size: medium;
+    
+
 }
 .navtext{
     color:#0e3051;
@@ -229,8 +240,100 @@ position: absolute;
     transform: scale(1.1);
 
 }
+.category{
+    padding-top: 50px;
+    position: absolute;
+    left: 6%;
+}
 .circletext{
-    
+    /* padding-top: 20px;
+    position: absolute; */
+    left: 40%;
+    font-size: 18px;
+font-family: Gotham;
+font-weight: 500;
+line-height: 1.31;
+letter-spacing: normal;
+text-align: center;
+color: #0e3051;
+padding-right: 11%;
+margin-top: 20px;
+}
+.c1{
+    position: absolute;
+
+}
+.c2{
+    position: absolute;
+    left: 230px;
+}
+.c3{
+    position: absolute;
+    left: 460px;
+}
+.c4{
+    position: absolute;
+    left: 685px;
+}
+.c5{
+    position: absolute;
+    left: 907px;
+}
+.circletext2{
+    left: 40%;
+    top: 96%;
+    position: absolute;
+    font-size: 18px;
+font-family: Gotham;
+font-weight: 500;
+line-height: 1.31;
+letter-spacing: normal;
+text-align: center;
+color: #0e3051;
+padding-right: 11%;
+margin-top: 25px;
+}
+.circletext3{
+    left: 40%;
+    top: 96%;
+    position: absolute;
+    font-size: 18px;
+font-family: Gotham;
+font-weight: 500;
+line-height: 1.31;
+letter-spacing: normal;
+text-align: center;
+color: #0e3051;
+padding-right: 11%;
+margin-top: 25px;
+}
+.circletext4{
+    left: 40%;
+    top: 96%;
+    position: absolute;
+    font-size: 18px;
+font-family: Gotham;
+font-weight: 500;
+line-height: 1.31;
+letter-spacing: normal;
+text-align: center;
+color: #0e3051;
+padding-right: 11%;
+margin-top: 25px;
+}
+.circletext5{
+    left: 40%;
+    top: 96%;
+    position: absolute;
+    font-size: 18px;
+font-family: Gotham;
+font-weight: 500;
+line-height: 1.31;
+letter-spacing: normal;
+text-align: center;
+color: #0e3051;
+padding-right: 11%;
+margin-top: 25px;
 }
 .circle1{
     width: 200px;
@@ -238,5 +341,46 @@ position: absolute;
     -webkit-border-radius: 25px;
     -moz-border-radius: 25px;
     border-radius: 120px;
-    background:url(./mens.jpeg)
+    background:url(./AS_Home_Thumb_20_Sale.gif)
+}
+.circle2{
+    float: right;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 120px;
+    background:url(./mens.jpeg);
+}
+.circle3{
+    float: right;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 120px;
+    background:url(./AS_Home_Thumb_03_Women_Dresses.jpeg);
+}
+.circle4{
+    float: right;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 120px;
+    background:url(./AS-D-B-SC-Shirts.jpeg);
+}
+.circle5{
+    float: right;
+    width: 200px;
+    height: 200px;
+    -webkit-border-radius: 25px;
+    -moz-border-radius: 25px;
+    border-radius: 120px;
+    background:url(./AS_Home_Thumb_13_Girls.jpeg);
+}
+.divider{
+    position: absolute;
+    top: 155%;
+    left: 7%;
 }
